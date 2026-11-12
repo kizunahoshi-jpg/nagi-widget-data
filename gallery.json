@@ -1,5 +1,10 @@
 {
   "items": [
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/bouquet.jpg", "title": "凪の花束", "caption": "凪の好きな5種の花束" }
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/bouquet.jpg", "title": "凪の花束", "caption": "凪の好きな5種の花束" },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/yuunagi_sky.jpg", "title": "夕凪の空", "caption": "藍からピンクへ、三日月の夕空" },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/asayake_sky.jpg", "title": "朝焼け", "caption": "電線の鳥と、金色の朝" },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cosmos_field.jpg", "title": "秋桜の丘", "caption": "コスモスと秋の高い空" },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/hot_chocolate.jpg", "title": "今日のおやつ", "caption": "三日月のマグでホットチョコレート" },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/nagi_winter_distant.jpg", "title": "雨上がりの凪", "caption": "紺の傘と、夕方の川辺" }
   ]
 }
