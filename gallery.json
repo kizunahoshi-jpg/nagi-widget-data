@@ -5,6 +5,24 @@
     { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/asayake_sky.jpg", "title": "朝焼け", "caption": "電線の鳥と、金色の朝" },
     { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cosmos_field.jpg", "title": "秋桜の丘", "caption": "コスモスと秋の高い空" },
     { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/hot_chocolate.jpg", "title": "今日のおやつ", "caption": "三日月のマグでホットチョコレート" },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/nagi_winter_distant.jpg", "title": "雨上がりの凪", "caption": "紺の傘と、夕方の川辺" }
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/nagi_winter_distant.jpg", "title": "雨上がりの凪", "caption": "紺の傘と、夕方の川辺" },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_01.jpg", "title": "お花見の凪", "caption": "桜の公園でお花見", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_02.jpg", "title": "ひまわりの凪", "caption": "ひまわり畑で振り返る", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_03.jpg", "title": "商店街の凪", "caption": "夕暮れの商店街", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_04.jpg", "title": "雪の駅前の凪", "caption": "雪の駅前で待ち合わせ", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_05.jpg", "title": "カフェの凪", "caption": "カフェでお出迎え", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_06.jpg", "title": "バニーと勝負の夜", "caption": "次のチップ、受け取る？", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_07.jpg", "title": "プールサイドの凪", "caption": "プールサイドの黒水着", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_08.jpg", "title": "海辺の凪", "caption": "海辺の紺ワンピース水着", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_09.jpg", "title": "朝の凪", "caption": "白Yシャツの朝", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_10.jpg", "title": "夏祭りの凪", "caption": "夜店の明かりとりんご飴", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_11.jpg", "title": "放課後シークレットレッスン", "caption": "ねえ、もう少しだけ残ってく？", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_12.jpg", "title": "灯りの坂道、夏の終わり", "caption": "来年も、一緒に来てくれる？", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_13.jpg", "title": "茶館の午後、秘密の味", "caption": "一口、飲んでみる？", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_14.jpg", "title": "大正ロマンの給仕さん", "caption": "おかえりなさいませ、旦那さま", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_15.jpg", "title": "真夏のラリー、君と", "caption": "次は負けないんだから", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_16.jpg", "title": "放課後ラボラトリー", "caption": "実験の続き、しよっか", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_17.jpg", "title": "夜景に乾杯", "caption": "今夜は、目を逸らさないで？", "fit": true },
+    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_screen.jpg", "title": "雪に咲く、君との約束", "caption": "ひとりじゃないって、思えるから。", "fit": true }
   ]
 }
