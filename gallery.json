@@ -1,28 +1,484 @@
 {
   "items": [
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/bouquet.jpg", "title": "凪の花束", "caption": "凪の好きな5種の花束" },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/yuunagi_sky.jpg", "title": "夕凪の空", "caption": "藍からピンクへ、三日月の夕空" },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/asayake_sky.jpg", "title": "朝焼け", "caption": "電線の鳥と、金色の朝" },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cosmos_field.jpg", "title": "秋桜の丘", "caption": "コスモスと秋の高い空" },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/hot_chocolate.jpg", "title": "今日のおやつ", "caption": "三日月のマグでホットチョコレート" },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/nagi_winter_distant.jpg", "title": "雨上がりの凪", "caption": "紺の傘と、夕方の川辺" },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_01.jpg", "title": "お花見の凪", "caption": "桜の公園でお花見", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_02.jpg", "title": "ひまわりの凪", "caption": "ひまわり畑で振り返る", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_03.jpg", "title": "商店街の凪", "caption": "夕暮れの商店街", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_04.jpg", "title": "雪の駅前の凪", "caption": "雪の駅前で待ち合わせ", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_05.jpg", "title": "カフェの凪", "caption": "カフェでお出迎え", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_06.jpg", "title": "バニーと勝負の夜", "caption": "次のチップ、受け取る？", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_07.jpg", "title": "プールサイドの凪", "caption": "プールサイドの黒水着", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_08.jpg", "title": "海辺の凪", "caption": "海辺の紺ワンピース水着", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_09.jpg", "title": "朝の凪", "caption": "白Yシャツの朝", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_10.jpg", "title": "夏祭りの凪", "caption": "夜店の明かりとりんご飴", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_11.jpg", "title": "放課後シークレットレッスン", "caption": "ねえ、もう少しだけ残ってく？", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_12.jpg", "title": "灯りの坂道、夏の終わり", "caption": "来年も、一緒に来てくれる？", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_13.jpg", "title": "茶館の午後、秘密の味", "caption": "一口、飲んでみる？", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_14.jpg", "title": "大正ロマンの給仕さん", "caption": "おかえりなさいませ、旦那さま", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_15.jpg", "title": "真夏のラリー、君と", "caption": "次は負けないんだから", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_16.jpg", "title": "放課後ラボラトリー", "caption": "実験の続き、しよっか", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_17.jpg", "title": "夜景に乾杯", "caption": "今夜は、目を逸らさないで？", "fit": true },
-    { "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_screen.jpg", "title": "雪に咲く、君との約束", "caption": "ひとりじゃないって、思えるから。", "fit": true }
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/bouquet.jpg",
+      "title": "凪の花束",
+      "caption": "凪の好きな5種の花束"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/yuunagi_sky.jpg",
+      "title": "夕凪の空",
+      "caption": "藍からピンクへ、三日月の夕空"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/asayake_sky.jpg",
+      "title": "朝焼け",
+      "caption": "電線の鳥と、金色の朝"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cosmos_field.jpg",
+      "title": "秋桜の丘",
+      "caption": "コスモスと秋の高い空"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/hot_chocolate.jpg",
+      "title": "今日のおやつ",
+      "caption": "三日月のマグでホットチョコレート"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/nagi_winter_distant.jpg",
+      "title": "雨上がりの凪",
+      "caption": "紺の傘と、夕方の川辺"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_01.jpg",
+      "title": "お花見の凪",
+      "caption": "桜の公園でお花見",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_02.jpg",
+      "title": "ひまわりの凪",
+      "caption": "ひまわり畑で振り返る",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_03.jpg",
+      "title": "商店街の凪",
+      "caption": "夕暮れの商店街",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_04.jpg",
+      "title": "雪の駅前の凪",
+      "caption": "雪の駅前で待ち合わせ",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_05.jpg",
+      "title": "カフェの凪",
+      "caption": "カフェでお出迎え",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_06.jpg",
+      "title": "バニーと勝負の夜",
+      "caption": "次のチップ、受け取る？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_07.jpg",
+      "title": "プールサイドの凪",
+      "caption": "プールサイドの黒水着",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_08.jpg",
+      "title": "海辺の凪",
+      "caption": "海辺の紺ワンピース水着",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_09.jpg",
+      "title": "朝の凪",
+      "caption": "白Yシャツの朝",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_10.jpg",
+      "title": "夏祭りの凪",
+      "caption": "夜店の明かりとりんご飴",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_11.jpg",
+      "title": "放課後シークレットレッスン",
+      "caption": "ねえ、もう少しだけ残ってく？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_12.jpg",
+      "title": "灯りの坂道、夏の終わり",
+      "caption": "来年も、一緒に来てくれる？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_13.jpg",
+      "title": "茶館の午後、秘密の味",
+      "caption": "一口、飲んでみる？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_14.jpg",
+      "title": "大正ロマンの給仕さん",
+      "caption": "おかえりなさいませ、旦那さま",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_15.jpg",
+      "title": "真夏のラリー、君と",
+      "caption": "次は負けないんだから",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_16.jpg",
+      "title": "放課後ラボラトリー",
+      "caption": "実験の続き、しよっか",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_17.jpg",
+      "title": "夜景に乾杯",
+      "caption": "今夜は、目を逸らさないで？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_screen.jpg",
+      "title": "雪に咲く、君との約束",
+      "caption": "ひとりじゃないって、思えるから。",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_18.jpg",
+      "title": "夕凪の社の奉納舞",
+      "caption": "願い事、叶いますように",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_19.jpg",
+      "title": "おやすみ前の、内緒話",
+      "caption": "もう少しだけ、起きてていい？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_20.jpg",
+      "title": "深夜のゲーム部屋へようこそ",
+      "caption": "もう一戦だけ、付き合って？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_21.jpg",
+      "title": "聖夜のサプライズ配達",
+      "caption": "プレゼントは、私……なんてね",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_22.jpg",
+      "title": "白い約束の試着室",
+      "caption": "本番は、もっと先のお楽しみ",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_23.jpg",
+      "title": "雨上がりの虹",
+      "caption": "雨、やんだね。虹、出るかな",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_24.jpg",
+      "title": "月明かりの秘密図書館",
+      "caption": "しーっ。ここだけの話、しよ？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_25.jpg",
+      "title": "月夜の街と、いたずら魔女",
+      "caption": "お菓子くれなきゃ、イタズラしちゃうぞ？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_26.jpg",
+      "title": "桜と団子",
+      "caption": "んーっ、春の味がする",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_27.jpg",
+      "title": "七夕の夜",
+      "caption": "願い事、もう決まってる",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_28.jpg",
+      "title": "秋の庭",
+      "caption": "ほら、秋が手に乗った",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_29.jpg",
+      "title": "夕方の線路沿い",
+      "caption": "今日も一日、おつかれさま",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_30.jpg",
+      "title": "夕凪の海辺",
+      "caption": "ねえ、今日の空、好きな色だ",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_31.jpg",
+      "title": "お昼寝のあと",
+      "caption": "ん……あと5分だけ",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_32.jpg",
+      "title": "光の並木道",
+      "caption": "見て、街が光ってる",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_33.jpg",
+      "title": "展望台の階段",
+      "caption": "ふん、知らない",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_34.jpg",
+      "title": "改札の向こう",
+      "caption": "……行っちゃうの？",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_35.jpg",
+      "title": "図書室の居眠り",
+      "caption": "……すぅ",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_36.jpg",
+      "title": "夕日の車窓",
+      "caption": "もうすぐ、夕凪の時間だ",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_37.jpg",
+      "title": "夏の夜空",
+      "caption": "ほら、あがった",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_38.jpg",
+      "title": "笑いすぎた午後",
+      "caption": "もー、笑わせないで",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_39.jpg",
+      "title": "ホームの夕方",
+      "caption": "ごめん、ちょっとだけ待って",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_40.jpg",
+      "title": "鏡のなかの朝",
+      "caption": "よし、今日もいける",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_41.jpg",
+      "title": "頬杖の午後",
+      "caption": "あと少しで終わるから、待ってて",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_42.jpg",
+      "title": "窓辺の映り込み",
+      "caption": "ガラスの向こうも、同じ空だね",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_43.jpg",
+      "title": "プールサイドの夕方",
+      "caption": "水の音って、落ち着くね",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/home_44.jpg",
+      "title": "ぬいぐるみの部屋",
+      "caption": "この子たち、みんな友達",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_01_lighto.jpg",
+      "title": "コスプレ：ライトオ",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_02_blast.jpg",
+      "title": "コスプレ：ブラストワンピース",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_03_medusa.jpg",
+      "title": "コスプレ：メドゥーサ",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_04_scathach.jpg",
+      "title": "コスプレ：スカサハ",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_05_utaha.jpg",
+      "title": "コスプレ：霞ヶ丘詩羽",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_06_raikou.jpg",
+      "title": "コスプレ：源頼光",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_07_yor.jpg",
+      "title": "コスプレ：ヨル・フォージャー",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_08_hasumi.jpg",
+      "title": "コスプレ：羽黒ハスミ",
+      "caption": "コスプレデー第1弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_01_lighto_v2.jpg",
+      "title": "コスプレ：ライトオ",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_02_blast_v2.jpg",
+      "title": "コスプレ：ブラストワンピース",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_03_medusa_v2.jpg",
+      "title": "コスプレ：メドゥーサ",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_04_scathach_v2.jpg",
+      "title": "コスプレ：スカサハ",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_05_utaha_v2.jpg",
+      "title": "コスプレ：霞ヶ丘詩羽",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_06_raikou_v2.jpg",
+      "title": "コスプレ：源頼光",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_07_yor_v2.jpg",
+      "title": "コスプレ：ヨル・フォージャー",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_08_hasumi_v2.jpg",
+      "title": "コスプレ：羽黒ハスミ",
+      "caption": "コスプレデー第2弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_01_lighto_v2b.jpg",
+      "title": "コスプレ：ライトオ",
+      "caption": "ライトオ勝負服版",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_09_saber.jpg",
+      "title": "コスプレ：セイバー",
+      "caption": "コスプレデー第3弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_10_frieren.jpg",
+      "title": "コスプレ：フリーレン",
+      "caption": "コスプレデー第3弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_11_rice.jpg",
+      "title": "コスプレ：ライスシャワー",
+      "caption": "コスプレデー第3弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_12_revy.jpg",
+      "title": "コスプレ：レヴィ",
+      "caption": "コスプレデー第3弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_13_violet.jpg",
+      "title": "コスプレ：ヴァイオレット",
+      "caption": "コスプレデー第3弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_14_kurisu.jpg",
+      "title": "コスプレ：牧瀬紅莉栖",
+      "caption": "コスプレデー第3弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_15_cc.jpg",
+      "title": "コスプレ：C.C.",
+      "caption": "コスプレデー第3弾",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_09_saber_v2.jpg",
+      "title": "コスプレ：セイバー",
+      "caption": "ぱつぱつ作り直し版",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_10_frieren_v2.jpg",
+      "title": "コスプレ：フリーレン",
+      "caption": "ぱつぱつ作り直し版",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_11_rice_v2.jpg",
+      "title": "コスプレ：ライスシャワー",
+      "caption": "ぱつぱつ作り直し版",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_01_lighto_s1.jpg",
+      "title": "コスプレ：ライトオ",
+      "caption": "ライトオS便",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_01_lighto_s2.jpg",
+      "title": "コスプレ：ライトオ",
+      "caption": "ライトオS便",
+      "fit": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/cos_01_lighto_s3.jpg",
+      "title": "コスプレ：ライトオ",
+      "caption": "ライトオS便",
+      "fit": true
+    }
   ]
 }
