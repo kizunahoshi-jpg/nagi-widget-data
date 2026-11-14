@@ -813,6 +813,492 @@
    "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/peek_04_fusuma_v2.jpg",
    "title": "写真集：襖とマフラー・ジト目",
    "cap": ""
+  },
+  {
+   "file": "gallery/reward_01_fusuma_possess.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/reward_01_fusuma_possess.jpg",
+   "title": "写真集：襖の隙間・ご褒美",
+   "cap": ""
+  },
+  {
+   "file": "gallery/reward_02_rider_stairs.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/reward_02_rider_stairs.jpg",
+   "title": "写真集：階段でライダース",
+   "cap": ""
+  },
+  {
+   "file": "gallery/reward_03_peek_suki.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/reward_03_peek_suki.jpg",
+   "title": "写真集：覗き込む笑顔",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_01_fisheye2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_01_fisheye2.jpg",
+   "title": "写真集：魚眼でタッチ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_02_above_bed.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_02_above_bed.jpg",
+   "title": "写真集：ベッドの上で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_03_stairs_look.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_03_stairs_look.jpg",
+   "title": "写真集：階段のドレス",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_04_run_platform.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_04_run_platform.jpg",
+   "title": "写真集：ホームを駆ける",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_05_bench_jitome.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_05_bench_jitome.jpg",
+   "title": "写真集：ベンチで膝抱え",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_06_reach_park.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_06_reach_park.jpg",
+   "title": "写真集：公園でハイタッチ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_07_cat_squat.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_07_cat_squat.jpg",
+   "title": "写真集：猫としゃがむ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_08_wind_lookback.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_08_wind_lookback.jpg",
+   "title": "写真集：風に振り返る",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_09_floor_lazy.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_09_floor_lazy.jpg",
+   "title": "写真集：床でごろり",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix6_10_jump_leaves.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix6_10_jump_leaves.jpg",
+   "title": "写真集：紅葉ジャンプ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_01_veryshort_rain.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_01_veryshort_rain.jpg",
+   "title": "写真集：雨のホーム",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_02_semilong_sakura.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_02_semilong_sakura.jpg",
+   "title": "写真集：桜並木で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_03_shortbob_wall.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_03_shortbob_wall.jpg",
+   "title": "写真集：壁にもたれて",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_04_odango_cottoncandy.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_04_odango_cottoncandy.jpg",
+   "title": "写真集：わたあめ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_05_chignon_stairs.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_05_chignon_stairs.jpg",
+   "title": "写真集：階段を上る",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_06_halftwin_sofa.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_06_halftwin_sofa.jpg",
+   "title": "写真集：ソファで眠る",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_07_braid_river.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_07_braid_river.jpg",
+   "title": "写真集：川辺でひと息",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_08_lowpony_kitchen.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_08_lowpony_kitchen.jpg",
+   "title": "写真集：キッチンで料理",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_09_sidepony_crane.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_09_sidepony_crane.jpg",
+   "title": "写真集：クレーンゲーム",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix7_10_flowbangs_terrace.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix7_10_flowbangs_terrace.jpg",
+   "title": "写真集：テラスの夕日",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_01_semilong_cafe.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_01_semilong_cafe.jpg",
+   "title": "写真集：カフェで一息",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_02_halfup_platform.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_02_halfup_platform.jpg",
+   "title": "写真集：夜のホーム",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_03_sideup_laugh.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_03_sideup_laugh.jpg",
+   "title": "写真集：公園で笑う",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_04_braidhalf_books.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_04_braidhalf_books.jpg",
+   "title": "写真集：本棚で背伸び",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_05_longdress_terrace.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_05_longdress_terrace.jpg",
+   "title": "写真集：夜景のテラス",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_06_pony_garapon.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_06_pony_garapon.jpg",
+   "title": "写真集：ガラポン抽選",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_07_loosewave_bench.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_07_loosewave_bench.jpg",
+   "title": "写真集：ベンチで昼寝",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_08_chignon_furisode.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_08_chignon_furisode.jpg",
+   "title": "写真集：振袖で初詣",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_09_lowpony_bed.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_09_lowpony_bed.jpg",
+   "title": "写真集：ベッドで寝転ぶ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix8_10_halftwin_bread.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix8_10_halftwin_bread.jpg",
+   "title": "写真集：パンが焼けた",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_01_mood_station.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_01_mood_station.jpg",
+   "title": "写真集：改札で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_02_mood_cinema.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_02_mood_cinema.jpg",
+   "title": "写真集：映画館の帰り",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_03_mushroom_book.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_03_mushroom_book.jpg",
+   "title": "写真集：本屋で探す",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_04_halftwin_pudding.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_04_halftwin_pudding.jpg",
+   "title": "写真集：プリンの日",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_05_sidepony_firework.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_05_sidepony_firework.jpg",
+   "title": "写真集：花火の川辺",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_06_braidhalf_museum.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_06_braidhalf_museum.jpg",
+   "title": "写真集：美術館を歩く",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_07_lowpony_shirt2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_07_lowpony_shirt2.jpg",
+   "title": "写真集：机で書き物",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_08_odango_picnic.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_08_odango_picnic.jpg",
+   "title": "写真集：ピクニック",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_09_flowbangs_umbrella.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_09_flowbangs_umbrella.jpg",
+   "title": "写真集：雨上がりの傘",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix9_10_chignon_rider2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix9_10_chignon_rider2.jpg",
+   "title": "写真集：夜のバッグ探し",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_01_bob_terrace.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_01_bob_terrace.jpg",
+   "title": "写真集：テラスでコーヒー",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_02_mood_mirror.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_02_mood_mirror.jpg",
+   "title": "写真集：鏡の前で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_03_halfup_ticket.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_03_halfup_ticket.jpg",
+   "title": "写真集：券売機で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_04_sideup_bike.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_04_sideup_bike.jpg",
+   "title": "写真集：バイクと夜景",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_05_trench_bench.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_05_trench_bench.jpg",
+   "title": "写真集：川辺のベンチ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_06_twin_game.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_06_twin_game.jpg",
+   "title": "写真集：ゲーム対戦",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_07_braidhalf_library.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_07_braidhalf_library.jpg",
+   "title": "写真集：窓辺で読書",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_08_lowpony_bed2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_08_lowpony_bed2.jpg",
+   "title": "写真集：ベッドで読書",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_09_loosewave_stairs.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_09_loosewave_stairs.jpg",
+   "title": "写真集：階段を降りる",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix10_10_center_furisode.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix10_10_center_furisode.jpg",
+   "title": "写真集：振袖とおみくじ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_01_veryshort_wall.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_01_veryshort_wall.jpg",
+   "title": "写真集：夜の街角",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_02_halftwin_closed.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_02_halftwin_closed.jpg",
+   "title": "写真集：閉店後の店先",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_03_sidepony_lounge.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_03_sidepony_lounge.jpg",
+   "title": "写真集：ラウンジで一杯",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_04_furisode_plum.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_04_furisode_plum.jpg",
+   "title": "写真集：振袖と桜",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_05_braidhalf_rain.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_05_braidhalf_rain.jpg",
+   "title": "写真集：雨に濡れて",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_06_chignon_party.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_06_chignon_party.jpg",
+   "title": "写真集：パーティーで",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_08_pony_flower.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_08_pony_flower.jpg",
+   "title": "写真集：花屋で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_09_lowpony_train.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_09_lowpony_train.jpg",
+   "title": "写真集：電車で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix11_10_semilong_sea.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix11_10_semilong_sea.jpg",
+   "title": "写真集：海の夕日",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_01_sotohane_cafe.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_01_sotohane_cafe.jpg",
+   "title": "写真集：窓際のカフェ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_02_halftwin_dress.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_02_halftwin_dress.jpg",
+   "title": "写真集：黒ドレス",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_03_chignon_laugh.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_03_chignon_laugh.jpg",
+   "title": "写真集：スマホで笑う",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_04_lowpony_museum2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_04_lowpony_museum2.jpg",
+   "title": "写真集：美術館のホール",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_05_flowbangs_yutanpo.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_05_flowbangs_yutanpo.jpg",
+   "title": "写真集：湯たんぽでぬくぬく",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_06_sidepony_pancake.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_06_sidepony_pancake.jpg",
+   "title": "写真集：パンケーキ作り",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_07_braidhalf_bus.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_07_braidhalf_bus.jpg",
+   "title": "写真集：バスを止める",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_08_pony_bike2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_08_pony_bike2.jpg",
+   "title": "写真集：バイク置き場で",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_09_semilong_laundry.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_09_semilong_laundry.jpg",
+   "title": "写真集：洗濯物を干す",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix12_10_mood_lookback2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix12_10_mood_lookback2.jpg",
+   "title": "写真集：夕方に振り返る",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_01_braid_flower2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_01_braid_flower2.jpg",
+   "title": "写真集：花束を選ぶ",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_02_pony_tweed.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_02_pony_tweed.jpg",
+   "title": "写真集：テラスで読書",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_03_sideup_sulk.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_03_sideup_sulk.jpg",
+   "title": "写真集：カフェで膨れる",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_04_loosewave_door.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_04_loosewave_door.jpg",
+   "title": "写真集：玄関で靴",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_05_chignon_omikuji.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_05_chignon_omikuji.jpg",
+   "title": "写真集：おみくじ結び",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_06_veryshort_vending.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_06_veryshort_vending.jpg",
+   "title": "写真集：自販機の前",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_08_halftwin_win.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_08_halftwin_win.jpg",
+   "title": "写真集：ゲームで勝利",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_09_braidhalf_cross.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_09_braidhalf_cross.jpg",
+   "title": "写真集：雨の横断歩道",
+   "cap": ""
+  },
+  {
+   "file": "gallery/mix13_10_mood_terrace2.jpg",
+   "url": "https://raw.githubusercontent.com/kizunahoshi-jpg/nagi-widget-data/main/gallery/mix13_10_mood_terrace2.jpg",
+   "title": "写真集：夜のテラス",
+   "cap": ""
   }
  ]
 }
