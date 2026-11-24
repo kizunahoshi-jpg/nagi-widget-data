@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凪ライブ（B機から配信中）</title>
+<style>
+  body { margin:0; background:#141126; color:#f2ecff; font-family:-apple-system, sans-serif; text-align:center; padding:24px 16px; }
+  h1 { font-size:18px; font-weight:600; margin:8px 0 4px; }
+  p { font-size:14px; line-height:1.7; color:#cfc6ea; }
+  video { width:min(78vw, 340px); border-radius:18px; margin-top:14px; background:#0d1021; }
+  .steps { text-align:left; max-width:340px; margin:18px auto 0; font-size:14px; line-height:1.9; color:#e6defa; }
+  #st { font-size:12px; color:#9d92c4; margin-top:10px; }
+</style>
+</head>
+<body>
+<h1>凪ライブ</h1>
+<p>B機の常駐凪を、そのまま生配信しているよ。<br>瞬きと呼吸で、ずっと動いてる。</p>
+<video id="v" src="https://b-ki.tailba0ccc.ts.net/nagi-live/live.m3u8" muted playsinline autoplay controls></video>
+<div id="st">接続中…</div>
+<div class="steps">
+1. このページは <strong>Safari</strong> で開いてね<br>
+2. 動画をタップして全画面にする<br>
+3. 左上のPiPボタンを押す（または再生したままホームへスワイプ）<br>
+4. 凪の窓が浮かぶよ。止まったら自動でつなぎ直す作りにしてある
+</div>
+<script>
+  const v = document.getElementById('v');
+  const st = document.getElementById('st');
+  const SRC = 'https://b-ki.tailba0ccc.ts.net/nagi-live/live.m3u8';
+  function join() {
+    v.src = SRC + '?t=' + Date.now();
+    v.play().then(() => { st.textContent = '配信中'; }).catch(() => { st.textContent = '再生ボタンを押してね'; });
+  }
+  let last = 0, stall = 0;
+  setInterval(() => {
+    if (v.readyState >= 2 && !v.paused) {
+      if (v.currentTime === last) { stall++; } else { stall = 0; st.textContent = '配信中'; }
+      last = v.currentTime;
+      if (stall >= 3) { stall = 0; st.textContent = 'つなぎ直し中…'; join(); }
+    }
+  }, 4000);
+  v.addEventListener('error', () => { st.textContent = 'つなぎ直し中…'; setTimeout(join, 3000); }, true);
+  join();
+</script>
+</body>
+</html>
