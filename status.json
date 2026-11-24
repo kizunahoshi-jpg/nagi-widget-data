@@ -1,1 +1,15 @@
-{"updated": "2026-11-24", "sanpo": {"day": 9, "place": "沼津市を西へ", "done_km": 128, "total_km": 585.5, "left_km": 457.5}, "yesterday": "三島を抜けて沼津へ、128キロに着いた日。", "tonight_sky": "満月が、雨雲の向こうで丸く満ちる。", "challenge": "温かいお味噌汁を、ゆっくり味わってみて。", "challenge_done": 6}
+{
+ "updated": "2026-11-24",
+ "sanpo": {
+  "day": 9,
+  "place": "沼津市を西へ",
+  "done_km": 128,
+  "total_km": 585.5,
+  "left_km": 457.5
+ },
+ "yesterday": "三島を抜けて沼津へ、128キロに着いた日。",
+ "tonight_sky": "満月が、雨雲の向こうで丸く満ちる。",
+ "challenge": "温かいお味噌汁を、ゆっくり味わってみて。",
+ "challenge_done": 7,
+ "stamped": "2026-11-24"
+}
