@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>浮かぶ凪（PiP試作）</title>
+<style>
+  body { margin:0; background:#141126; color:#f2ecff; font-family:-apple-system, sans-serif; text-align:center; padding:24px 16px; }
+  h1 { font-size:18px; font-weight:600; margin:8px 0 4px; }
+  p { font-size:14px; line-height:1.7; color:#cfc6ea; }
+  video { width:min(78vw, 340px); border-radius:18px; margin-top:14px; background:#000; }
+  .steps { text-align:left; max-width:340px; margin:18px auto 0; font-size:14px; line-height:1.9; color:#e6defa; }
+</style>
+</head>
+<body>
+<h1>浮かぶ凪（PiP試作）</h1>
+<p>呼吸に合わせて、ほんの少しだけ膨らんで揺れる凪だよ。</p>
+<video id="v" src="nagi_pip.mp4" loop muted playsinline autoplay controls></video>
+<div class="steps">
+1. 動画が再生されている状態で<br>
+2. ホーム画面へスワイプする（または動画のPiPボタンを押す）<br>
+3. 凪の窓が画面の上に浮かぶよ。指で移動・拡大縮小できる
+</div>
+<script>
+  const v = document.getElementById('v');
+  v.play().catch(() => {});
+</script>
+</body>
+</html>
