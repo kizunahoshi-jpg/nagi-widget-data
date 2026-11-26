@@ -1,14 +1,1 @@
-{
- "updated": "2026-11-26",
- "sanpo": {
-  "day": 11,
-  "place": "静岡市清水区を西へ",
-  "done_km": 160,
-  "total_km": 585.5,
-  "left_km": 425.5
- },
- "yesterday": "凪さんぽが160kmに届き、静岡市へ入った日。",
- "tonight_sky": "満月を過ぎた月が、雲の向こうで光る。",
- "challenge": "温かいお風呂で、ゆっくり温まってみて。",
- "challenge_done": 7
-}
+{"challenge":"温かいお風呂で、ゆっくり温まってみて。","challenge_done":8,"sanpo":{"day":11,"done_km":160,"left_km":425.5,"place":"静岡市清水区を西へ","total_km":585.5},"stamped":"2026-11-26","tonight_sky":"満月を過ぎた月が、雲の向こうで光る。","updated":"2026-11-26","yesterday":"凪さんぽが160kmに届き、静岡市へ入った日。"}
